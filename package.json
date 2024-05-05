@@ -12,6 +12,10 @@
   },
   "private": true,
   "dependencies": {
-    "picocolors": "^1.0.0"
+    "picocolors": "^1.0.0",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+
   }
 }
